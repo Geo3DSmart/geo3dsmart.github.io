@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to the page of Geo3DSmart
 
-You can use the [editor on GitHub](https://github.com/Geo3DSmart/geo3dsmart.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Geo3DSMART is the Geospatial 3D Sensing, Mapping and Reconstruction Team at CUG, China.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
