@@ -1,4 +1,4 @@
-## Welcome to the page of Geo3DSmart
+## Geo3DSMART
 
 Geo3DSMART is the Geospatial 3D Sensing, Mapping and Reconstruction Team at CUG, China.
 
