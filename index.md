@@ -10,10 +10,11 @@ The team's research interests lie in 3D computer vision, laser scanning and remo
 欢迎电子信息（电信、计算机、物联网等）、低空技术、地理信息、测绘遥感或其他专业感兴趣学生联系加入3DSMART团队。
 
 
+团队论文：
 
-Google Scholar: https://scholar.google.com/citations?hl=en&user=g8db8KAAAAAJ 
+Google Scholar: [https://scholar.google.com/citations?hl=en&user=g8db8KAAAAAJ](https://scholar.google.com/citations?hl=en&user=g8db8KAAAAAJ)
 
-ResearchGate: https://www.researchgate.net/profile/Wen-Xiao-16 
+ResearchGate: [https://www.researchgate.net/profile/Wen-Xiao-16](https://www.researchgate.net/profile/Wen-Xiao-16) 
 
 团队最新动态：
 
