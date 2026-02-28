@@ -19,15 +19,15 @@ ResearchGate: https://www.researchgate.net/profile/Wen-Xiao-16
 
 2026:
 
-2. 团队研究生关于AIoT激光雷达在时空智能中的应用发表于武大学报(https://ch.whu.edu.cn/article/doi/10.13203/j.whugis20250183)
+2. 团队研究生关于[AIoT激光雷达在时空智能中的应用发表于武大学报](https://ch.whu.edu.cn/article/doi/10.13203/j.whugis20250183)
 
-1. 团队博后张佳兴博士关于路侧激光雷达感知综述发表于ISPRS(https://www.sciencedirect.com/science/article/pii/S0924271626000122)
+1. 团队博后张佳兴博士关于[路侧激光雷达感知综述发表于一区ISPRS](https://www.sciencedirect.com/science/article/pii/S0924271626000122)
 
 2025:
 
-10. 团队研究生关于中心引导点云补全的车辆定位发表于RS(https://ch.whu.edu.cn/article/doi/10.13203/j.whugis20250183)
+10. 团队研究生关于[中心引导点云补全的车辆定位发表于RS](https://ch.whu.edu.cn/article/doi/10.13203/j.whugis20250183)
 
-9. 团队研究生关于特征引导点加密的高斯溅射发表于Neurocomputing(https://www.sciencedirect.com/science/article/abs/pii/S0925231225031108)
+9. 团队研究生关于[特征引导点加密的高斯溅射发表于Neurocomputing](https://www.sciencedirect.com/science/article/abs/pii/S0925231225031108)
 
 8. 团队研究生在学校科技论文报告会中获评一等奖两项
 
@@ -41,13 +41,13 @@ ResearchGate: https://www.researchgate.net/profile/Wen-Xiao-16
 
 3. 团队研三毕业论文顺利通过外审，平均分88
 
-2. 与港理工合作的基于超体素柱状物体点云实例分割论文发表于一区TGRS(https://ieeexplore.ieee.org/abstract/document/10891914/)
+2. 与港理工合作的[基于超体素柱状物体点云实例分割论文发表于一区TGRS](https://ieeexplore.ieee.org/abstract/document/10891914/)
 
 1. 团队毕业研究生签约某米某度等大厂
 
 2024:
 
-11. 团队研究生关于激光雷达物联网的原型系统论文发表于一区IoTJ(https://ieeexplore.ieee.org/abstract/document/10815971/)
+11. 团队研究生关于[激光雷达物联网的原型系统论文发表于一区IoTJ](https://ieeexplore.ieee.org/abstract/document/10815971/)
 
 10. 团队研究生参加首届全球数智教育创新大赛获空天信息赛道决赛第四名（万元奖金） 
 
@@ -85,4 +85,4 @@ ResearchGate: https://www.researchgate.net/profile/Wen-Xiao-16
 
 2. 国家自然科学基金项目42201485：融合多测站三维激光雷达的高精度智能路侧感知方法研究
 
-1. 专刊CFP: Remote Sensing Special Issue "Lidar Sensing for 3D Digital Twins", ddl 15 Dec 2023.(https://www.mdpi.com/journal/remotesensing/special_issues/035R93WE4E)
+1. 专刊CFP: [Remote Sensing Special Issue "Lidar Sensing for 3D Digital Twins", ddl 15 Dec 2023.](https://www.mdpi.com/journal/remotesensing/special_issues/035R93WE4E)
