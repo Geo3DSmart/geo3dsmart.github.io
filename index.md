@@ -3,6 +3,14 @@
 3DSMART is the Geospatial 3D Sensing, Mapping and Reconstruction Team at CUG, China.
 The team's research interests lie in 3D computer vision, laser scanning and remote sensing. The vision is to develop smart 3D sensing, mapping and reconstructoin (3DSMART) algorithms, applied to smart cities, digital twins, intelligent infrastructure, sustainable environments, etc. Studies include moving object detection and tracking, infrastructure and transport systems monitoring, forest monitoring and dynamics analysis, change detection and monitoring, from various sensing platforms, e.g. static and mobile mapping systems, airborne systems (including UAVs), Satellite, etc. 
 
+团队负责人：肖文，教授，博士生导师，测绘系主任，国家地理信息系统工程技术研究中心地理环境感知研究方向负责人，地大百人，国家级青年人才。获欧盟奖学金，硕士毕业于荷兰ITC，博士毕业于法国国家地理与林业信息研究院（IGN），并于瑞士ETH交流，曾任英国纽卡斯尔大学讲师，英国遥感与摄影测量协会（RSPSoc）理事。主要从事激光雷达测量，计算机视觉，三维感知、测图与重建（3DSMART）等方法研究及其在全息监测、数字孪生、智能交通、智慧城市、林业生态等方面的应用。主持或参与国内外国家级基金项目8项，与国内、欧洲多国及北美相关专家学者和企业开展了合作研究，发表论文50余篇，其中SCI论文40余篇。现任英国遥感与摄影测量协会Fellow，国际数字地球学会激光雷达专业委员会委员，国际摄影测量与遥感协会（ISPRS）II/5工作组成员，任ISRPS P&RS和Photogrammetric Record期刊编委。
+
+
+
+欢迎电子信息（电信、计算机、物联网等）、低空技术、地理信息、测绘遥感或其他专业感兴趣学生联系加入3DSMART团队。
+
+
+
 Google Scholar: https://scholar.google.com/citations?hl=en&user=g8db8KAAAAAJ 
 
 ResearchGate: https://www.researchgate.net/profile/Wen-Xiao-16 
