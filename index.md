@@ -4,6 +4,7 @@
 The team's research interests lie in 3D computer vision, laser scanning and remote sensing. The vision is to develop smart 3D sensing, mapping and reconstructoin (3DSMART) algorithms, applied to smart cities, digital twins, intelligent infrastructure, sustainable environments, etc. Studies include moving object detection and tracking, infrastructure and transport systems monitoring, forest monitoring and dynamics analysis, change detection and monitoring, from various sensing platforms, e.g. static and mobile mapping systems, airborne systems (including UAVs), Satellite, etc. 
 
 Google Scholar: https://scholar.google.com/citations?hl=en&user=g8db8KAAAAAJ 
+
 ResearchGate: https://www.researchgate.net/profile/Wen-Xiao-16 
 
 团队最新动态：
