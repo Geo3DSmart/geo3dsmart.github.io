@@ -32,7 +32,7 @@ ResearchGate: [https://www.researchgate.net/profile/Wen-Xiao-16](https://www.res
 
 8. 团队研究生在学校科技论文报告会中获评一等奖两项
 
-7. 团队双激光雷达路口数字孪生数据集和任务基准发表于一区JAG，已开源https://github.com/Geo3DSmart/IntDT 
+7. 团队[双激光雷达路口数字孪生数据集和任务基准发表于一区JAG](https://www.sciencedirect.com/science/article/pii/S1569843225006272)，已开源https://github.com/Geo3DSmart/IntDT 
 
 6. 团队研究生荣获第九届全国激光雷达大会优秀青年论文奖
 
@@ -54,11 +54,11 @@ ResearchGate: [https://www.researchgate.net/profile/Wen-Xiao-16](https://www.res
 
 9. 团队研究生带领本科生组队参加第八届全国激光雷达大会数据处理竞赛获一等奖两项
 
-8. 团队研究生关于激光雷达三维目标检测网络PDANet发表于一区TGRS，代码已开源https://github.com/Geo3DSmart/PDANet
+8. 团队研究生[关于激光雷达三维目标检测网络PDANet发表于一区TGRS](https://ieeexplore.ieee.org/abstract/document/10649613)，代码已开源https://github.com/Geo3DSmart/PDANet
 
-7. 团队研究生基于光学影像的多任务建筑物变化检测论文发表于一区JAG，代码已开源https://github.com/Geo3DSmart/CSCLNet
+7. 团队研究生[基于光学影像的多任务建筑物变化检测论文发表于一区JAG](https://www.sciencedirect.com/science/article/pii/S1569843224004291)，代码已开源https://github.com/Geo3DSmart/CSCLNet
 
-6. 团队本科生关于城市土地利用变化对内涝影响分析论文发表于JSTARS
+6. 团队本科生关于[城市土地利用变化对内涝影响分析论文发表于JSTARS](https://ieeexplore.ieee.org/abstract/document/10602531)
 
 5. 团队首届毕业生均就业于大型国企
 
@@ -68,7 +68,7 @@ ResearchGate: [https://www.researchgate.net/profile/Wen-Xiao-16](https://www.res
 
 2. 团队研究生发明专利获授权：一种基于距离与密度的点云背景自适应过滤方法
 
-1. 团队研究生发表激光雷达点云单木分割IJDE一区论文，代码已开源https://github.com/Geo3DSmart/ITS-HFC
+1. 团队研究生发表[激光雷达点云单木分割IJDE一区论文](https://www.tandfonline.com/doi/abs/10.1080/17538947.2024.2356124)，代码已开源https://github.com/Geo3DSmart/ITS-HFC
 
 2023:
 
@@ -82,7 +82,7 @@ ResearchGate: [https://www.researchgate.net/profile/Wen-Xiao-16](https://www.res
 
 4. The Photogrammetric Record期刊编委，2023-2025
 
-3. 团队基于点云的城市三维变化检测综述发表于JAG
+3. 团队[基于点云的城市三维变化检测综述发表于JAG](https://www.sciencedirect.com/science/article/pii/S1569843223000808)
 
 2. 国家自然科学基金项目42201485：融合多测站三维激光雷达的高精度智能路侧感知方法研究
 
