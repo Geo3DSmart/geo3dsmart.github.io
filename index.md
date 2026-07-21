@@ -3,11 +3,11 @@
 3DSMART is the Geospatial 3D Sensing, Mapping and Reconstruction Team at CUG, China.
 The team's research interests lie in 3D computer vision, laser scanning and remote sensing. The vision is to develop smart 3D sensing, mapping and reconstructoin (3DSMART) algorithms, applied to smart cities, digital twins, intelligent infrastructure, sustainable environments, etc. Studies include moving object detection and tracking, infrastructure and transport systems monitoring, forest monitoring and dynamics analysis, change detection and monitoring, from various sensing platforms, e.g. static and mobile mapping systems, airborne systems (including UAVs), Satellite, etc. 
 
-团队负责人：肖文，中国地质大学（武汉）教授，博士生导师，地理与信息工程学院测绘系主任，国家地理信息系统工程技术研究中心地理环境感知研究方向负责人，地大百人，国家级青年人才。获欧盟奖学金，硕士毕业于荷兰ITC，博士毕业于法国国家地理与林业信息研究院（IGN），并于瑞士ETH交流，曾任英国纽卡斯尔大学讲师，英国遥感与摄影测量协会（RSPSoc）理事。主要从事激光雷达测量，计算机视觉，三维感知、测图与重建（3DSMART）等方法研究及其在全息监测、数字孪生、智能交通、智慧城市、林业生态等方面的应用。主持或参与国内外国家级基金项目8项，与国内、欧洲多国及北美相关专家学者和企业开展了合作研究，发表论文50余篇，其中SCI论文40余篇。现任英国遥感与摄影测量协会Fellow，国际数字地球学会激光雷达专业委员会委员，国际摄影测量与遥感协会（ISPRS）II/5工作组成员，任ISRPS P&RS和Photogrammetric Record期刊编委。
+团队负责人：肖文，中国地质大学（武汉）教授，博士生导师，地理与信息工程学院测绘系主任，国家地理信息系统工程技术研究中心地理环境感知研究方向负责人，地大百人，国家级青年人才。获欧盟奖学金，硕士毕业于荷兰ITC，博士毕业于法国国家地理与林业信息研究院（IGN），并于瑞士ETH交流，曾任英国纽卡斯尔大学讲师，英国遥感与摄影测量协会（RSPSoc）理事。主要从事激光雷达测量，计算机视觉，三维感知、测图与重建（3DSMART）等方法研究及其在无人系统、数字孪生、智能交通、智慧城市、林业生态等方面的应用。主持或参与国内外国家级基金项目8项，与国内、欧洲多国及北美相关专家学者和企业开展了合作研究，发表论文50余篇，其中SCI论文40余篇。现任英国遥感与摄影测量协会Fellow，国际数字地球学会激光雷达专业委员会委员，国际摄影测量与遥感协会（ISPRS）II/5时空数据理解工作组成员，任ISRPS P&RS和Photogrammetric Record等期刊编委。
 
 
 
-欢迎电子信息（电信、计算机、物联网等）、低空技术、地理信息、测绘遥感或其他专业感兴趣学生联系加入3DSMART团队。
+欢迎电子信息（电信、计算机、物联网等）、低空技术、资源与环境、测绘遥感或其他专业感兴趣学生联系加入3DSMART团队。
 
 
 团队论文：
@@ -20,13 +20,17 @@ ResearchGate: [https://www.researchgate.net/profile/Wen-Xiao-16](https://www.res
 
 2026:
 
+4. 团队研究生关于[弱监督室内平面图重建的论文发表于ISRPS](https://www.sciencedirect.com/science/article/pii/S0924271626003266)或(https://authors.elsevier.com/a/1nMKv3I9x1yQD2)
+
+3. 团队研究生毕业分别就职华为京东美团和相关国企
+
 2. 团队研究生关于[AIoT激光雷达在时空智能中的应用发表于武大学报](https://ch.whu.edu.cn/article/doi/10.13203/j.whugis20250183)
 
 1. 团队博后张佳兴博士关于[路侧激光雷达感知综述发表于一区ISPRS](https://www.sciencedirect.com/science/article/pii/S0924271626000122)
 
 2025:
 
-10. 团队研究生关于[中心引导点云补全的车辆定位发表于RS](https://ch.whu.edu.cn/article/doi/10.13203/j.whugis20250183)
+10. 团队研究生关于[中心引导点云补全的车辆定位发表于RS](https://www.mdpi.com/2072-4292/18/1/39)
 
 9. 团队研究生关于[特征引导点加密的高斯溅射发表于Neurocomputing](https://www.sciencedirect.com/science/article/abs/pii/S0925231225031108)
 
@@ -44,7 +48,7 @@ ResearchGate: [https://www.researchgate.net/profile/Wen-Xiao-16](https://www.res
 
 2. 与港理工合作的[基于超体素柱状物体点云实例分割论文发表于一区TGRS](https://ieeexplore.ieee.org/abstract/document/10891914/)
 
-1. 团队毕业研究生签约某米某度等大厂
+1. 团队毕业研究生就职小米京东OPPO等大厂
 
 2024:
 
