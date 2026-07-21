@@ -20,7 +20,7 @@ ResearchGate: [https://www.researchgate.net/profile/Wen-Xiao-16](https://www.res
 
 2026:
 
-4. 团队研究生关于[弱监督室内平面图重建的论文发表于ISRPS](https://www.sciencedirect.com/science/article/pii/S0924271626003266)或(https://authors.elsevier.com/a/1nMKv3I9x1yQD2)
+4. 团队研究生关于[弱监督室内平面图重建的论文发表于ISRPS](https://www.sciencedirect.com/science/article/pii/S0924271626003266)，全文下载(https://authors.elsevier.com/a/1nMKv3I9x1yQD2)
 
 3. 团队研究生毕业分别就职华为京东美团和相关国企
 
